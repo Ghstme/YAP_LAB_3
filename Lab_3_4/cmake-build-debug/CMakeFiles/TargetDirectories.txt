@@ -1,0 +1,3 @@
+D:/Рабочий стол/Университет/1 курс/2 семестр/Языки программирования/Лабораторная №3/Lab_3/Lab_3_4/cmake-build-debug/CMakeFiles/Lab_3_4.dir
+D:/Рабочий стол/Университет/1 курс/2 семестр/Языки программирования/Лабораторная №3/Lab_3/Lab_3_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Рабочий стол/Университет/1 курс/2 семестр/Языки программирования/Лабораторная №3/Lab_3/Lab_3_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
